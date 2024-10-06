@@ -1,6 +1,6 @@
 function Home(){
 
-    return <h1>Hello World</h1>
+    return <h1>Seja bem vindo ao gerenciador de receitas de café</h1>
 }
 
 export default Home;
